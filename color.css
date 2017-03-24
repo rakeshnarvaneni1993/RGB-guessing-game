@@ -1,0 +1,21 @@
+body{
+  background-color: #232323;
+}
+.blocks
+{
+  width: 30%;
+  background-color: red;
+  padding-bottom: 30%;
+  float: left;
+  margin:1.66%
+}
+.allBlocks{
+  margin:0 auto;
+  max-width:600px;
+}
+h1{
+  color:white;
+  height:170px;
+  background-color: rgb(20,150,180);
+  text-align:center;
+}
